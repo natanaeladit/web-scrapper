@@ -1,5 +1,5 @@
 # Run app
 
 ```
-node app.js
+node solution.js
 ```
